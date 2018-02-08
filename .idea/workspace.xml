@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdfc8910-504c-4be4-92ed-38edbf894fa9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter02/FromIntToFloat.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter02/FromIntToDouble.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,41 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="PromotionExample.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter02/PromotionExample.java">
+      <file leaf-file-name="FromIntToDouble.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter02/FromIntToDouble.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CastingExmaple.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter02/CastingExmaple.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CheckValueBeforeCasting.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/chapter02/CheckValueBeforeCasting.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FromIntToFloat.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/chapter02/FromIntToFloat.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+            <state relative-caret-position="161">
+              <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -98,6 +68,7 @@
         <option value="$PROJECT_DIR$/src/chapter02/CastingExmaple.java" />
         <option value="$PROJECT_DIR$/src/chapter02/CheckValueBeforeCasting.java" />
         <option value="$PROJECT_DIR$/src/chapter02/FromIntToFloat.java" />
+        <option value="$PROJECT_DIR$/src/chapter02/FromIntToDouble.java" />
       </list>
     </option>
   </component>
@@ -184,26 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FromIntToFloat">
-    <configuration name="BooleanExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="chapter02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="chapter02.BooleanExample" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="javatutorials" />
-      <envs />
-    </configuration>
+  <component name="RunManager" selected="Application.FromIntToDouble">
     <configuration name="CastingExmaple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -231,6 +183,25 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="chapter02.CheckValueBeforeCasting" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="javatutorials" />
+      <envs />
+    </configuration>
+    <configuration name="FromIntToDouble" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="chapter02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="chapter02.FromIntToDouble" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -362,19 +333,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.BooleanExample" />
-      <item index="1" class="java.lang.String" itemvalue="Application.PromotionExample" />
-      <item index="2" class="java.lang.String" itemvalue="Application.CastingExmaple" />
-      <item index="3" class="java.lang.String" itemvalue="Application.CheckValueBeforeCasting" />
-      <item index="4" class="java.lang.String" itemvalue="Application.FromIntToFloat" />
+      <item index="0" class="java.lang.String" itemvalue="Application.PromotionExample" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CastingExmaple" />
+      <item index="2" class="java.lang.String" itemvalue="Application.CheckValueBeforeCasting" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FromIntToFloat" />
+      <item index="4" class="java.lang.String" itemvalue="Application.FromIntToDouble" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.FromIntToFloat" />
-        <item index="1" class="java.lang.String" itemvalue="Application.CheckValueBeforeCasting" />
-        <item index="2" class="java.lang.String" itemvalue="Application.CastingExmaple" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PromotionExample" />
-        <item index="4" class="java.lang.String" itemvalue="Application.BooleanExample" />
+        <item index="0" class="java.lang.String" itemvalue="Application.FromIntToDouble" />
+        <item index="1" class="java.lang.String" itemvalue="Application.FromIntToFloat" />
+        <item index="2" class="java.lang.String" itemvalue="Application.CheckValueBeforeCasting" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CastingExmaple" />
+        <item index="4" class="java.lang.String" itemvalue="Application.PromotionExample" />
       </list>
     </recent_temporary>
   </component>
@@ -392,7 +363,7 @@
       <workItem from="1517334548333" duration="2498000" />
       <workItem from="1517479764615" duration="2477000" />
       <workItem from="1518111630982" duration="1233000" />
-      <workItem from="1518119363625" duration="2499000" />
+      <workItem from="1518119363625" duration="2632000" />
     </task>
     <task id="LOCAL-00001" summary="add VariableScopeExample&#10;modify chapter2 README">
       <created>1517336425323</created>
@@ -457,11 +428,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518121710965</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add CastingExmaple">
+      <created>1518121879135</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1518121879135</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11636000" />
+    <option name="totallyTimeSpent" value="11769000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -521,9 +499,9 @@
     <MESSAGE value="add FloatDoubleExample" />
     <MESSAGE value="add BooleanExample" />
     <MESSAGE value="add PromotionExaple" />
-    <MESSAGE value="add CastingExmaple" />
     <MESSAGE value="add CheckValueBeforeCasting" />
-    <option name="LAST_COMMIT_MESSAGE" value="add CheckValueBeforeCasting" />
+    <MESSAGE value="add CastingExmaple" />
+    <option name="LAST_COMMIT_MESSAGE" value="add CastingExmaple" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -750,10 +728,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter02/PromotionExample.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter02/CheckValueBeforeCasting.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        <state relative-caret-position="230">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
           <folding />
         </state>
       </provider>
@@ -766,18 +744,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter02/CheckValueBeforeCasting.java">
+    <entry file="file://$PROJECT_DIR$/src/chapter02/PromotionExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        <state relative-caret-position="184">
+          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter02/FromIntToFloat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter02/FromIntToDouble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
           <folding />
         </state>
       </provider>
