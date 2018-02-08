@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdfc8910-504c-4be4-92ed-38edbf894fa9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter02/CastingExmaple.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter02/CheckValueBeforeCasting.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -30,11 +30,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CastingExmaple.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CastingExmaple.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter02/CastingExmaple.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
               <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CheckValueBeforeCasting.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter02/CheckValueBeforeCasting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -76,6 +86,7 @@
         <option value="$PROJECT_DIR$/src/chapter02/BooleanExample.java" />
         <option value="$PROJECT_DIR$/src/chapter02/PromotionExample.java" />
         <option value="$PROJECT_DIR$/src/chapter02/CastingExmaple.java" />
+        <option value="$PROJECT_DIR$/src/chapter02/CheckValueBeforeCasting.java" />
       </list>
     </option>
   </component>
@@ -162,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CastingExmaple">
+  <component name="RunManager" selected="Application.CheckValueBeforeCasting">
     <configuration name="BooleanExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -201,14 +212,14 @@
       <module name="javatutorials" />
       <envs />
     </configuration>
-    <configuration name="FloatDoubleExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CheckValueBeforeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="chapter02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="chapter02.FloatDoubleExample" />
+      <option name="MAIN_CLASS_NAME" value="chapter02.CheckValueBeforeCasting" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -220,14 +231,14 @@
       <module name="javatutorials" />
       <envs />
     </configuration>
-    <configuration name="LongExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="FloatDoubleExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="chapter02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="chapter02.LongExample" />
+      <option name="MAIN_CLASS_NAME" value="chapter02.FloatDoubleExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -340,19 +351,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.LongExample" />
-      <item index="1" class="java.lang.String" itemvalue="Application.FloatDoubleExample" />
-      <item index="2" class="java.lang.String" itemvalue="Application.BooleanExample" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PromotionExample" />
-      <item index="4" class="java.lang.String" itemvalue="Application.CastingExmaple" />
+      <item index="0" class="java.lang.String" itemvalue="Application.FloatDoubleExample" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BooleanExample" />
+      <item index="2" class="java.lang.String" itemvalue="Application.PromotionExample" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CastingExmaple" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CheckValueBeforeCasting" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CastingExmaple" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PromotionExample" />
-        <item index="2" class="java.lang.String" itemvalue="Application.BooleanExample" />
-        <item index="3" class="java.lang.String" itemvalue="Application.FloatDoubleExample" />
-        <item index="4" class="java.lang.String" itemvalue="Application.LongExample" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CheckValueBeforeCasting" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CastingExmaple" />
+        <item index="2" class="java.lang.String" itemvalue="Application.PromotionExample" />
+        <item index="3" class="java.lang.String" itemvalue="Application.BooleanExample" />
+        <item index="4" class="java.lang.String" itemvalue="Application.FloatDoubleExample" />
       </list>
     </recent_temporary>
   </component>
@@ -370,7 +381,7 @@
       <workItem from="1517334548333" duration="2498000" />
       <workItem from="1517479764615" duration="2477000" />
       <workItem from="1518111630982" duration="1233000" />
-      <workItem from="1518119363625" duration="2064000" />
+      <workItem from="1518119363625" duration="2325000" />
     </task>
     <task id="LOCAL-00001" summary="add VariableScopeExample&#10;modify chapter2 README">
       <created>1517336425323</created>
@@ -421,14 +432,22 @@
       <option name="project" value="LOCAL" />
       <updated>1518120818932</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add CastingExmaple">
+      <created>1518121442603</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1518121442603</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11201000" />
+    <option name="totallyTimeSpent" value="11462000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -439,11 +458,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289183" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289183" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -484,7 +503,8 @@
     <MESSAGE value="add FloatDoubleExample" />
     <MESSAGE value="add BooleanExample" />
     <MESSAGE value="add PromotionExaple" />
-    <option name="LAST_COMMIT_MESSAGE" value="add PromotionExaple" />
+    <MESSAGE value="add CastingExmaple" />
+    <option name="LAST_COMMIT_MESSAGE" value="add CastingExmaple" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -723,6 +743,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter02/CheckValueBeforeCasting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
           <folding />
         </state>
       </provider>
