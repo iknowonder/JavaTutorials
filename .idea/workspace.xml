@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdfc8910-504c-4be4-92ed-38edbf894fa9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter02/FromIntToDouble.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/chapter02/OperationsPromotionExample.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -20,11 +20,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="FromIntToDouble.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FromIntToDouble.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter02/FromIntToDouble.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="161">
               <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OperationsPromotionExample.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/chapter02/OperationsPromotionExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="24" column="40" lean-forward="false" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -69,6 +79,7 @@
         <option value="$PROJECT_DIR$/src/chapter02/CheckValueBeforeCasting.java" />
         <option value="$PROJECT_DIR$/src/chapter02/FromIntToFloat.java" />
         <option value="$PROJECT_DIR$/src/chapter02/FromIntToDouble.java" />
+        <option value="$PROJECT_DIR$/src/chapter02/OperationsPromotionExample.java" />
       </list>
     </option>
   </component>
@@ -155,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FromIntToDouble">
+  <component name="RunManager" selected="Application.OperationsPromotionExample">
     <configuration name="CastingExmaple" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -232,14 +243,14 @@
       <module name="javatutorials" />
       <envs />
     </configuration>
-    <configuration name="PromotionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="OperationsPromotionExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="chapter02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="chapter02.PromotionExample" />
+      <option name="MAIN_CLASS_NAME" value="chapter02.OperationsPromotionExample" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -333,19 +344,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.PromotionExample" />
-      <item index="1" class="java.lang.String" itemvalue="Application.CastingExmaple" />
-      <item index="2" class="java.lang.String" itemvalue="Application.CheckValueBeforeCasting" />
-      <item index="3" class="java.lang.String" itemvalue="Application.FromIntToFloat" />
-      <item index="4" class="java.lang.String" itemvalue="Application.FromIntToDouble" />
+      <item index="0" class="java.lang.String" itemvalue="Application.CastingExmaple" />
+      <item index="1" class="java.lang.String" itemvalue="Application.CheckValueBeforeCasting" />
+      <item index="2" class="java.lang.String" itemvalue="Application.FromIntToFloat" />
+      <item index="3" class="java.lang.String" itemvalue="Application.FromIntToDouble" />
+      <item index="4" class="java.lang.String" itemvalue="Application.OperationsPromotionExample" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.FromIntToDouble" />
-        <item index="1" class="java.lang.String" itemvalue="Application.FromIntToFloat" />
-        <item index="2" class="java.lang.String" itemvalue="Application.CheckValueBeforeCasting" />
-        <item index="3" class="java.lang.String" itemvalue="Application.CastingExmaple" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PromotionExample" />
+        <item index="0" class="java.lang.String" itemvalue="Application.OperationsPromotionExample" />
+        <item index="1" class="java.lang.String" itemvalue="Application.FromIntToDouble" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FromIntToFloat" />
+        <item index="3" class="java.lang.String" itemvalue="Application.CheckValueBeforeCasting" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CastingExmaple" />
       </list>
     </recent_temporary>
   </component>
@@ -363,7 +374,7 @@
       <workItem from="1517334548333" duration="2498000" />
       <workItem from="1517479764615" duration="2477000" />
       <workItem from="1518111630982" duration="1233000" />
-      <workItem from="1518119363625" duration="2632000" />
+      <workItem from="1518119363625" duration="3147000" />
     </task>
     <task id="LOCAL-00001" summary="add VariableScopeExample&#10;modify chapter2 README">
       <created>1517336425323</created>
@@ -435,11 +446,18 @@
       <option name="project" value="LOCAL" />
       <updated>1518121879135</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add CastingExmaple">
+      <created>1518122001053</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1518122001053</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11769000" />
+    <option name="totallyTimeSpent" value="12284000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
@@ -454,7 +472,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289183" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289183" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289183" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -764,6 +782,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter02/OperationsPromotionExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="40" lean-forward="false" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
           <folding />
         </state>
       </provider>
